@@ -1,0 +1,22 @@
+{
+  "name": "test_angular_boostrap",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "FRSCO <frscollo@hotmail.it>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/francesco75/test_angular_bootstrap1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9"
+  }
+}
